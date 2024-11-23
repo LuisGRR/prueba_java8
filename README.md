@@ -139,19 +139,6 @@ mvn test
 
 ---
 
-## Capturas de Pantalla
-
-### Pantalla de Inicio
-![Pantalla de Inicio](docs/home.png)
-
-### Registro de Tarea
-![Registro de Tarea](docs/register_task.png)
-
-### Listado de Tareas
-![Listado de Tareas](docs/task_list.png)
-
----
-
 ## Autor
 
 Desarrollado por Luis Gerardo Rivera Rivera.
